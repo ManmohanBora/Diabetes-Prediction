@@ -104,7 +104,7 @@ diabetes-prediction/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/diabetes-prediction.git
+git clone https://github.com/ManmohanBora/Diabetes-Prediction.git
 
 ### 2. Navigate to Project Folder
 
@@ -163,9 +163,8 @@ To build a machine learning model that predicts diabetes accurately and provides
 
 ## 👨‍💻 Author
 
-**Your Name**
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+**Manmohan Bora**
+GitHub: https://github.com/ManmohanBora
 
 ---
 
